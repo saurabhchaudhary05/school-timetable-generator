@@ -45,6 +45,7 @@ periods_per_day = 6
 ### DO NOT MODIFY THE CODE ABOVE THIS LINE ###
 
 def generate_timetable():
+    
     """
     Generate a weekly timetable for the school based on the given constraints.
     
@@ -70,6 +71,8 @@ def display_timetable(timetable):
     Args:
         timetable (dict): The generated timetable
     """
+
+    
     # TODO: Implement timetable display logic
     # Display the timetable for each class
     # Display the timetable for each teacher
